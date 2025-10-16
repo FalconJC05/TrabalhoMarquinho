@@ -1,0 +1,33 @@
+body {
+    display : flex;
+    justify-content : center;
+    align-items : center;
+    min-height : 100vh;
+    margin:0;
+    background-color : #f7f7f7;
+    font-family : Arial, sans-serif;
+}
+
+#gamer-container{ 
+    text-align : center;
+    border : 3px solid #333;
+    padding : 10px;
+    background-color: #fff;
+}
+#game-Canvas{
+    /*Define a aparência da área do jogo*/
+    background-color : #e0e0e0;
+    display : block;
+}
+
+#score{
+    margin-top : 10px;
+    font-size : 1.2em;
+    font-weight : bold;
+}
+
+#message{
+    margin-top : 10px;
+    color : red;
+    font-weight : bold;
+}
