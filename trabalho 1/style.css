@@ -15,7 +15,7 @@ body {
     background-color: #fff;
 }
 #game-Canvas{
-    /Define a aparência da área do jogo/
+    /*Define a aparência da área do jogo*/
     background-color : #e0e0e0;
     display : block;
 }
